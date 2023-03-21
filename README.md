@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead](https://img.freepik.com/premium-vector/programming-coding-laptop-computer-best-programming-languages-flat-web-banner-software-coding-testing-debugging-app-development-creation-programming-language-program-code-screen_435184-581.jpg?w=2000)]
 <h1 align="center">Hi 👋, I'm Surafel Wubshet</h1>
 <h3 align="center">A passionate Fullstack Developer</h3>
 <img align="right" alt="Coding Picture" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
