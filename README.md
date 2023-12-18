@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Fullstack Developer</h3>
 <img align="right" alt="Coding Picture" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surafel7&label=Profile%20views&color=0e75b6&style=flat" alt="surafel7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/surfel wubshet" target="blank"><img src="https://img.shields.io/twitter/follow/surfel wubshet?logo=twitter&style=for-the-badge" alt="surfel wubshet" /></a> </p>
